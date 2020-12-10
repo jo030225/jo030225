@@ -4,4 +4,4 @@
 * Email: whwngur123@naver.com
 * Portfolio: https://www.notion.so/24ab4212f854411082c8a3db0799c1fe
                                                      
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?jo030225)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jo030225)](https://github.com/anuraghazra/github-readme-stats)
