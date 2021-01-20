@@ -1,7 +1,7 @@
 # 조주혁(Cho JuHyuk)
 ## 꾸준히 노력하는 iOS 개발자입니다.
 * Email: whwngur123@naver.com
-* Portfolio: https://bit.ly/2K2mUI4
+* Notion Portfolio: https://bit.ly/2K2mUI4
 * TIL: https://bit.ly/38vQVcD
 
 
