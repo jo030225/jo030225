@@ -1,5 +1,4 @@
 # 조주혁(Cho JuHyuk)
-- 사람들의 삶에 좋은 영향을 주고 싶은 Software Engineer 조주혁입니다.
   
 ## 🏢 Career
 - 킬로: iOS, Flutter, Server Developer (2023.08. ~ 현재)
