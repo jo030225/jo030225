@@ -10,5 +10,3 @@
 
 ### ✉️ Contact
 * Email: whwngur123@naver.com
-* [Notion Portfolio](https://www.notion.so/chojuhyuk/iOS-24ab4212f854411082c8a3db0799c1fe?pvs=4) 
-* [Tistory Blog](https://jo030225.tistory.com)
